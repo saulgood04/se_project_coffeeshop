@@ -4,12 +4,13 @@
   background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .reservation__title {
   margin: 0 0 80px;
   text-align: center;
-  font-family: Inter;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
